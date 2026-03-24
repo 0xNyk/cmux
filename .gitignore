@@ -9,7 +9,6 @@ xcuserdata/
 .DS_Store
 
 # Local env
-.env
 .envrc
 
 # Swift Package Manager
@@ -47,3 +46,4 @@ tests/visual_report.html
 # Local scratch (screenshots, etc.)
 tmp/
 tmp-*/
+config.bat
